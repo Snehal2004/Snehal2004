@@ -1,23 +1,11 @@
-### Hi there 👋
 
-<!--
-**Snehal2004/Snehal2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-![Header](./header.png)
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Snehal Bahalkar&label=Profile%20views&color=0e75b6&style=flat" alt="snehalbahalkar" /> </p>
+<img src="./header.jpg" alt="Header" width="100%">
+
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+!+👋;+I'm+Snehal+Bahalkar+!!;" />
@@ -54,22 +42,21 @@ Here are some ideas to get you started:
 </div>
 <hr/>
 
-<h2 align="center"><b>⚒️ Languages - Frameworks - Tools ⚒️</b></h2>
 <br/>
-
-
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,php" /><br/>
+    <img src="https://skillicons.dev/icons?i=java,cpp,mysql,github,vscode" /><br/>
+</div>
+<br/>
 <hr/>
 
 
 
 
-<br>
-<div align=center style="display:flex;">
-<table>
-<tr>
-<td>  
-                    
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+
+ 
+       
         
 </td>
 <td><img style="float:right" width=300 height=250 alt="coder" src="./coder.gif"></td>
