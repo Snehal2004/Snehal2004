@@ -3,7 +3,7 @@
 
 
 
-<img src="./header1.png" alt="Header" width="100%" height="50%">
+<img src="./header1.png" alt="Header" width="50%" height="50%">
 
 
 
