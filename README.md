@@ -25,7 +25,7 @@
 
 - 🔭 I’m currently working on : **Increasing  Programming knowledge and Problem-Solving Skills** <br>
  
-- 💬 Ask me about : **Java, C++, HTML, CSS, Php, Javascript , React-Js , NodeJs , ExpressJs** <br>
+- 💬 Ask me about : **Java, HTML, CSS, Javascript , React-Js , NodeJs ,Github ,MongoDB , MySql** <br>
  
 - 📫 How to reach me : **<a href="mailto: snehalbahalkar2004@gmail.com">snehalbahlkar2004@gmail.com</a>** <br>
 
