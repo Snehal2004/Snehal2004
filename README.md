@@ -1,69 +1,55 @@
-<!-- HEADER BANNER -->
-<img src="./header1.png" alt="Header" width="50%" height="50%" />
+# 👋 Hello, I'm Snehal Bahalkar!
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=3000&pause=1000&center=true&vCenter=true&width=500&height=60&lines=Hi+%F0%9F%91%8B+I'm+Snehal+Bahalkar+!!" alt="Typing SVG" />
-</h1>
+### 📊 Aspiring Data Analyst | Python | SQL | Power BI
 
-<h3 align="center">
-  <i>Computer Engineering Student | MERN Stack Developer | Tech Enthusiast</i>
-</h3>
+Turning data into meaningful insights and actionable decisions. 🚀
 
 ---
 
-## 👩‍💻 About Me
-<img align="right" width="300" alt="coding-gif" src="https://raw.githubusercontent.com/snehal2004/snehal2004/main/assets/coding.gif" />
+## 🙋‍♀️ About Me
 
-- 🎓 Pursuing **B.Tech in Computer Engineering**
-- 🌱 Exploring **Full Stack Development (MERN)**
-- 💻 Practicing **DSA**, contributing to **open source**
-- 🧠 Skills: Java, HTML, CSS, JavaScript, React, Node.js, MongoDB, MySQL
-- 📫 Reach me at: **[snehalbahalkar2004@gmail.com](mailto:snehalbahalkar2004@gmail.com)**
+- 🎓 Computer Engineering Graduate (2025)
+- 📊 Passionate about **Data Analytics, Data Visualization, and Business Intelligence**
+- 🐍 Learning Python, SQL, Pandas, NumPy, and Matplotlib
+- 📈 Exploring Power BI to create interactive dashboards and reports
+- 🔍 Enjoy analyzing datasets, discovering patterns, and solving real-world problems through data
+- 🌱 Continuously learning and building projects to grow as a Data Analyst
 
 ---
 
-## 🔗 Connect With Me
+## 🛠️ Skills & Tools
 
-<p align="center">
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+🔹 **Data Analysis Projects** — Exploring datasets to uncover trends and insights.
+
+🔹 **SQL Projects** — Practicing data retrieval, filtering, joins, aggregations, and window functions.
+
+🔹 **Python Visualization Projects** — Creating charts and visual reports using Python.
+
+*More projects coming soon as I continue my Data Analytics journey! 🚀*
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
   <a href="https://www.linkedin.com/in/snehal-bahalkar/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn" />
   </a>
-</p>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb" /><br/>
-  <img src="https://skillicons.dev/icons?i=java,cpp,mysql,github,vscode,git" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<table align="center">
-<tr>
-<td>
-  <img src="https://github-contributor-stats.vercel.app/api?username=snehal2004&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true" alt="GitHub Stats" />
-</td>
-<td>
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="300" height="220" />
-</td>
-</tr>
-</table>
-
----
-
-## 🌐 Portfolio
-
-<p align="center">
-  <a href="https://snehal2004.github.io/Portfolio-app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF480E?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <br><br>
-  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif?raw=true" height="33px" />
 </p>
 
 ---
