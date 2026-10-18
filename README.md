@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Snehal Bahalkar!
+# 👋 Hello, I'm Snehal Bahalkar !
 
 ### 📊 Aspiring Data Analyst | Python | SQL | Power BI
 
