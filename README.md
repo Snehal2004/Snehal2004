@@ -38,6 +38,8 @@ Turning data into meaningful insights and actionable decisions. 🚀
 
 🔹 **SQL Projects** — Practicing data retrieval, filtering, joins, aggregations, and window functions.
 
+🔹 **SQL Practice Sheets** — Practicing data retrieval, filtering, joins, aggregations, and window functions.
+
 🔹 **Python Visualization Projects** — Creating charts and visual reports using Python.
 
 *More projects coming soon as I continue my Data Analytics journey! 🚀*
