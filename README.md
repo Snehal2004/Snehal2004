@@ -7,7 +7,6 @@
 
 ## 🙋‍♀️ About Me
 
-- 🎓 Computer Engineering Graduate (2025)
 - 📊 Passionate about **Data Analytics, Data Visualization, and Business Intelligence**
 - 🐍 Learning Python, SQL, Pandas, NumPy, and Matplotlib
 - 📈 Exploring Power BI to create interactive dashboards and reports
