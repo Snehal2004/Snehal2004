@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Snehal Bahalkar!
 ### 📊 Data Analyst | Python | SQL | Power BI | Excel
 
-##**Turning data into meaningful insights and actionable decisions.** 🚀
+**##Turning data into meaningful insights and actionable decisions.** 🚀
 
 ---
 
